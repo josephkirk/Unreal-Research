@@ -1,0 +1,24 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors / IDEs
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Generated graph data (graphify scan output)
+graphify-out/
+
+# UE source checkout / build artifacts (if vendored locally)
+UE_5.8/
+Intermediate/
+Saved/
+Binaries/
+DerivedDataCache/
+
+# Logs
+*.log
